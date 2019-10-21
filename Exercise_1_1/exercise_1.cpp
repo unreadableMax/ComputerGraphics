@@ -1,5 +1,9 @@
-// exercise_1.cpp : Diese Datei enthält die Funktion "main". Hier beginnt und endet die Ausführung des Programms.
-//
+//-------------group members--------------
+//	Dennis Becker		3497351
+//	Julian Gröger		3542588
+//	Amrit  Kaur			3532964
+//  Maximilian Legnar	3544557
+//-----------------------------------------
 
 #include <iostream>
 #include <string>
