@@ -1,0 +1,92 @@
+Please choose action:
+Enter 1 to add mesh object
+Enter 2 to remove mesh object
+Enter 3 to list existing mesh objects
+Enter 4 to exit the program
+-----------------------------------
+3
+List of Objects
+---------------------
+nothing to print
+---------------------
+Press 5 For Help
+1
+Enter name of Mesh
+tree
+Enter Number of faces
+421
+Enter Number of vertices
+6456
+Enter Scale factor
+1.1
+Enter position X of Mesh
+10
+Enter position Y of Mesh
+1
+Object added to scene its id is: 1
+Press 5 For Help
+3
+List of Objects
+---------------------
+ID: 1
+Number of Vertices: 6456
+Center(10;1)
+Number of Faces: 421
+Name: tree
+Scale: 1.100000
+
+---------------------
+Press 5 For Help
+1
+Enter name of Mesh
+house
+Enter Number of faces
+235456
+Enter Number of vertices
+234456
+Enter Scale factor
+10
+Enter position X of Mesh
+1
+Enter position Y of Mesh
+1
+Object added to scene its id is: 2
+Press 5 For Help
+3
+List of Objects
+---------------------
+ID: 1
+Number of Vertices: 6456
+Center(10;1)
+Number of Faces: 421
+Name: tree
+Scale: 1.100000
+
+ID: 2
+Number of Vertices: 234456
+Center(1;1)
+Number of Faces: 235456
+Name: house
+Scale: 10.000000
+
+---------------------
+Press 5 For Help
+2
+Enter id of mesh objects to remove
+5
+Object with id: 5 not found in the scene.
+Press 5 For Help
+2
+Enter id of mesh objects to remove
+2
+Object with id: 2 removed from the scene.
+Press 5 For Help
+3
+List of Objects
+---------------------
+ID: 1
+Number of Vertices: 6456
+Center(10;1)
+Number of Faces: 421
+Name: tree
+Scale: 1.100000
