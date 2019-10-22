@@ -1,5 +1,5 @@
 ﻿  Ex1.cpp
-C:\Users\max\Documents\MasterStudium\Semester3\computer graphics\Neuer Ordner\ComputerGraphics\Ex1\Ex1\Ex1\Ex1.cpp(141,1): warning C4102: "std": Unreferenzierte Bezeichnung
-C:\Users\max\Documents\MasterStudium\Semester3\computer graphics\Neuer Ordner\ComputerGraphics\Ex1\Ex1\Ex1\Ex1.cpp(357,43): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
-C:\Users\max\Documents\MasterStudium\Semester3\computer graphics\Neuer Ordner\ComputerGraphics\Ex1\Ex1\Ex1\Ex1.cpp(358,43): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
-  Ex1.vcxproj -> C:\Users\max\Documents\MasterStudium\Semester3\computer graphics\Neuer Ordner\ComputerGraphics\Ex1\Ex1\Debug\Ex1.exe
+C:\Users\max\Documents\MasterStudium\Semester3\computer graphics\Neuer Ordner\ComputerGraphics\Exercise 1\Ex1\Ex1\Ex1\Ex1.cpp(140,1): warning C4102: "std": Unreferenzierte Bezeichnung
+C:\Users\max\Documents\MasterStudium\Semester3\computer graphics\Neuer Ordner\ComputerGraphics\Exercise 1\Ex1\Ex1\Ex1\Ex1.cpp(356,43): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\max\Documents\MasterStudium\Semester3\computer graphics\Neuer Ordner\ComputerGraphics\Exercise 1\Ex1\Ex1\Ex1\Ex1.cpp(357,43): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+  Ex1.vcxproj -> C:\Users\max\Documents\MasterStudium\Semester3\computer graphics\Neuer Ordner\ComputerGraphics\Exercise 1\Ex1\Ex1\Debug\Ex1.exe
